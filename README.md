@@ -1,6 +1,2 @@
 ### Kumpulan template blogger
 
-
-
-
-dksjskskskkskskskakakskamamak
