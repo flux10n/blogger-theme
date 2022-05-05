@@ -1,10 +1,13 @@
 ### Kumpulan template blogger
 
 
-<pre><font size="1">
+<pre><font size="1"><b>
 
 
-                                .',:cclllcc:;'.
+
+
+
+                                 .',:cclllcc:;'.
                           .;okKWMMMMMMMMMMMMMMMMMWXOo:.
                       'o0WMMMMMMMMMMMMMMMMMMMMMMMMMMMMMW0o,
                    :OWMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMWOc.
@@ -45,4 +48,7 @@
                             -==[   root@whoami   ]==-
 
 
-</font></pre>
+
+
+
+</b></font></pre>
