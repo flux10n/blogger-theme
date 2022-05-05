@@ -1,10 +1,10 @@
 ### Kumpulan template blogger
 
 
-<pre><font size="3">
+<pre><font size="1">
 
 
-.',:cclllcc:;'.
+                                .',:cclllcc:;'.
                           .;okKWMMMMMMMMMMMMMMMMMWXOo:.
                       'o0WMMMMMMMMMMMMMMMMMMMMMMMMMMMMMW0o,
                    :OWMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMWOc.
